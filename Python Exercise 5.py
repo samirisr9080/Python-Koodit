@@ -25,6 +25,7 @@ main()
 
 
 
+
 input_List = []
 input_List.append(int(input("Enter a number: ")))
 
